@@ -1,6 +1,6 @@
 ### Hi i'm Patricio, and i'm a fullstack js dev 👋
 
-Hey! im an amateur web developer, i have been learning about web development from almost 3 years, i haven't been very active on GitHub but i coded a lot really!
+Hey! im an amateur web developer, i have been learning for almost 3 years now and i'm starting to create the habit of uploading every new project to GitHub so they are visible.
 
 <!--
 **Patricio-Fernandez-Ionadi/Patricio-Fernandez-Ionadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
