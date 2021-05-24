@@ -88,11 +88,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">
 ✨ Where you can find me ✨</h1>
-'links not working'
 
-<!-- <p align="center">
+<p align="center">
   <br/>
-  <a href="www.linkedin.com/in/patricio-fernandez-ionadi-12320015b">
+  <a href="https://www.linkedin.com/in/patricio-fernandez-ionadi-12320015b">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
@@ -113,5 +112,5 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCbPO8LoaXFd5KKWf9ebGYiQ">
     <img src="https://img.shields.io/badge/youtube-%23E4000F.svg?labelColor=FF0000?&style=flat-square&logo=youtube&logoColor=white">
   </a>
-</p> -->
+</p> 
 <hr>
