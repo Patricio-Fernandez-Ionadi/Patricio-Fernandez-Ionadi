@@ -67,20 +67,6 @@ Here are some ideas to get you started:
 					<img height="64px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png"/>
 				</td>
 			</tr>
-			<tr valign="top">
-				<td width="33%" align="center">
-					<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br /><br /><br />
-					<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
-				</td>
-				<td width="33%" align="center">
-					<span>Java</span><br /><br /><br />
-					<img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
-				</td>
-				<td width="33%" align="center">
-					<span>Pug</span><br /><br /><br />
-					<img height="64px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default"/>
-				</td>
-			</tr>
 		</tbody>
 	</table>
 </div>
