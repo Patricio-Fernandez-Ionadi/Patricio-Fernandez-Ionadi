@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 				</td>
 				<td width="33%" align="center">
 					<span>Bootstrap4</span><br /><br /><br />
-					<img height="64px" src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"/>
+					<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/>
 				</td>
 			</tr>
 			<tr valign="top">
