@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 					<span>javascript</span><br /><br /><br />
 					<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
 				</td>
-				<td width="33%" align="center"></td>
+				<td width="33%" align="center">
+					<span>𝗚𝗶𝘁</span><br /><br /><br />
+					<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
+				</td>
 				<td width="33%" align="center">
 					<span>React</span><br /><br /><br />
 					<img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>
@@ -61,8 +64,8 @@ Here are some ideas to get you started:
 					<img height="64px" src="https://i.pinimg.com/originals/99/49/77/994977c48fde58ac674a2d05ba5a5efb.png"/>
 				</td>
 				<td width="33%" align="center">
-					<span>𝗚𝗶𝘁</span><br /><br /><br />
-					<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
+					<span>Express</span><br /><br /><br />
+					<img height="64px" src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png"/>
 				</td>
 			</tr>
 		</tbody>
