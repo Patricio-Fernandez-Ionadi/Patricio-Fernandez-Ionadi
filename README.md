@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an application for my personal use about crop management 🌱
 
 
 <hr>
@@ -35,8 +36,8 @@ Here are some ideas to get you started:
 					<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 				</td>
 				<td width="33%" align="center">
-					<span>Bootstrap4</span><br /><br /><br />
-					<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"/>
+					<span>𝗚𝗶𝘁</span><br /><br /><br />
+					<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
 				</td>
 			</tr>
 			<tr valign="top">
@@ -58,45 +59,8 @@ Here are some ideas to get you started:
 					<span>MongoDB</span><br /><br /><br />
 					<img height="64px" src="https://banner2.cleanpng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg"/>
 				</td>
-				<td width="33%" align="center">
-					<span>𝗚𝗶𝘁</span><br /><br /><br />
-					<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"/>
-				</td>
-				<td width="33%" align="center">
-					<span>Materia-ui</span><br /><br /><br />
-					<img height="64px" src="https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png"/>
-				</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
-<hr>
-
-<h1 align="center">
-✨ Where you can find me ✨</h1>
-
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/patricio-fernandez-ionadi-12320015b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/Patricio-Fernandez-Ionadi">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-  <br/>
-  <a href="https://www.facebook.com/patricio.fernandezionadi/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
-
-  <a href="https://www.instagram.com/ionadipatriciofernandez/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://www.youtube.com/channel/UCbPO8LoaXFd5KKWf9ebGYiQ">
-    <img src="https://img.shields.io/badge/youtube-%23E4000F.svg?labelColor=FF0000?&style=flat-square&logo=youtube&logoColor=white">
-  </a>
-</p> 
 <hr>
