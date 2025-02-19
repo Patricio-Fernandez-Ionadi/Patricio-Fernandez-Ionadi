@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 					<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 				</td>
 				<td width="33%" align="center">
-					<span>CSS3</span><br /><br /><br />
+					<span>Sass</span><br /><br /><br />
 					<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 				</td>
 			</tr>
