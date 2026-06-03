@@ -1,7 +1,5 @@
 ### Hi i'm Patricio, and i'm a fullstack js dev 👋
 
-Hey! im an amateur web developer, i have been learning for almost 7 years now and i'm starting to create the habit of uploading every new project to GitHub so they are visible.
-
 <!--
 **Patricio-Fernandez-Ionadi/Patricio-Fernandez-Ionadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on an application for my personal use about crop management 🌱
+<!--- 🔭 I’m currently working on an application for my personal use about crop management 🌱-->
 
 
 <hr>
