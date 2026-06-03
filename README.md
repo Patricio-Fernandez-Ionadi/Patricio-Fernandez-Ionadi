@@ -1,6 +1,6 @@
-### Hi i'm Patricio, and i'm a fullstack js dev 👋
+<!--### Hi i'm Patricio, and i'm a fullstack js dev 👋
 
-<!--
+
 **Patricio-Fernandez-Ionadi/Patricio-Fernandez-Ionadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--- 🔭 I’m currently working on an application for my personal use about crop management 🌱-->
+
+- 🔭 I’m currently working on an application for my personal use about crop management 🌱
 
 
 <hr>
@@ -70,3 +70,4 @@ Here are some ideas to get you started:
 	</table>
 </div>
 <hr>
+-->
